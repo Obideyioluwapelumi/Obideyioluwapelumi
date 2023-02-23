@@ -3,7 +3,7 @@
 
 Interested in business transformation through data and analytics
 + You can find my SQL projects here [portfolio](https://github.com/Obideyioluwapelumi/SQL_Portfolio_Projects.git)
-+ 👀 I'm interested in improving my skilss in Python and SQL
++ 👀 I'm interested in improving my skills in Python and SQL
 + 🌱 My current goal is getting better with Python and C++
 + 🥅💞️ I am looking to collaborate more on Python, SQL and C++
 + ⚡ It is fun to write codes and queries
