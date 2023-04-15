@@ -3,17 +3,15 @@
 
 Interested in business transformation through data and analytics
 + You can find my SQL projects here [portfolio](https://github.com/Obideyioluwapelumi/SQL_Portfolio_Projects.git)
-+ 👀 I'm interested in improving my skills in Python and SQL
-+ 🌱 My current goal is getting better with Python and C++
-+ 🥅💞️ I am looking to collaborate more on Python, SQL and C++
++ 👀 I'm interested in improving my Data Analytic skills
++ 🌱 Working on SQL, Python and C++ projects
++ 🥅💞️ I am available for Data and Business Analyst roles
 + ⚡ It is fun to write codes and queries
 + 📫 How to reach me obideyioluwapelumi@gmail.com, whatsapp: +2348160853651 ....
 
 
-## I can as well meet with you:
+## Lets meet on:
 [View my linkedIn Profile](https://www.linkedin.com/in/oluwapelumi-obideyi-524647135/)
-
-
 
 ## Languages and Data Analytics Tools:
 
@@ -21,20 +19,7 @@ Interested in business transformation through data and analytics
 - [x] Python Programming
 - [x] C++ Programming
 - [x] Microsoft Excel
-
-## Data Visualization Tools:
-
-- [x] Microsoft Excel
-- [x] Tableau
-
-## Project Management Tools:
-
-- [x] Github
-- [x] Working on others too
-
-
-## Work Experience
-- [x] Cut across all stages
+- [x] Tableau 
 
 <!---
 Obideyioluwapelumi/Obideyioluwapelumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
