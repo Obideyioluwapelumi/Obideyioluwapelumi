@@ -4,7 +4,7 @@
 Interested in business transformation through data and analytics
 + You can find my SQL projects here [portfolio](https://github.com/Obideyioluwapelumi/SQL_Portfolio_Projects.git)
 + 👀 I'm interested in improving my Data Analytic skills
-+ 🌱 Working on SQL, Python and C++ projects
++ 🌱 I am working on SQL, Python and C++ projects
 + 🥅💞️ I am available for Data and Business Analyst roles
 + ⚡ It is fun to write codes and queries
 + 📫 How to reach me obideyioluwapelumi@gmail.com, whatsapp: +2348160853651 ....
